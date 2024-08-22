@@ -5,7 +5,7 @@
     <h1 align="left">DEMO-FIGHT</h1>
 </p>
 <p align="left">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>🥋🥊🥷🥋☯👘 `slogan`</em>
 </p>
 <p align="left">
 	<img src="https://img.shields.io/github/license/juanbig/demo-fight?style=flat&color=0080ff" alt="license">
